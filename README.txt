@@ -1,0 +1,1 @@
+Upload all folders to your hosting. Visit /admin for admin panel.
